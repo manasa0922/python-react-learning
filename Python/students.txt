@@ -1,0 +1,3 @@
+Manasa,Manasa, 90,80, 90
+Kavya,MSc, 80,90, 100
+Megha,MSc, 80,90, 100
